@@ -1,5 +1,0 @@
-{
-    "watch": ["."],
-    "ext": "js",
-    "exec": "node --inspect-brk app.js"
-}
